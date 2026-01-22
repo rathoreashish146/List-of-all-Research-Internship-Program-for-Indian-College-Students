@@ -1,52 +1,14 @@
-![Research Internships for Undergraduates - Illustration of people collaborating.](images/rifu-heading.png)
+✍️ About This List
 
-# <p align="center"> Research Internships for Undergraduates </p>
+This repository is independently created and maintained by Ashish Rathore to help undergraduate students discover genuine research internship opportunities across the world.
+I built this list after realizing how scattered and inaccessible such information is, especially for students who don’t have the right guidance at the right time.
 
-#### <p align="center"> This is a non-exhaustive list of opportunities available to Undergraduate students. Many of these positions are only focused towards Indian students. </p>
+This is a living, open-source collection — not exhaustive, but carefully curated.
+My goal is simple: reduce information asymmetry and make research opportunities more discoverable for students from all backgrounds.
 
-> [!TIP]
-> I am making this list as an attempt to fill the void of any such open source list. Your contribution is vital to keep the list up-to-date for future students to use. Hence it's a humble request to each user to contribute any new opportunity you discover and update the old ones. Without updation, the web-links will break, and the list will become futile! I'll make sure that any such modification in the `README.md` raised as an issue or submitted as a pull request be timely reviewed and added.
+I actively review updates, fix broken links, and welcome meaningful contributions to keep this resource relevant and useful for future students.
 
-<p align="center">
-  This repo is maintained in collaboration with <a href="https://zapply.jobs">
-  <img src="https://zapply.jobs/_astro/logo-white.BELjrjiH_Z18qziS.svg" alt="Zapply logo" height="20" align="center">
-</a>
-</p>
-
-## **Website & Autofill Extension**
-
-![Apply to jobs in seconds with Zapply.](images/zapply.png)
-
-Explore Zapply's website and check out:
-
-- Our chrome extension that autofills your job applications in seconds.
-- A dedicated job board with the latest jobs for various types of roles.
-- User account providing multiple profiles for different resume roles.
-- Job application tracking with streaks to unlock commitment awards.
-
-Experience an advanced career journey with us! 🚀
-
-<p align="center">
-  <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="images/extension-button.png" alt="Install Our Extension - Coming Soon" width="300"></a>
-</p>
-
-## Explore Around
-
-<img src="images/connect.png" alt="Explore Around">
-
-Connect and seek advice from a growing network of fellow students and new grads.
-
-<p align="center">
-  <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-2d.png" alt="Visit Our Website" width="250"></a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" height="75"></a>
-  &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" height="75"></a>
-</p>
-
-The following are some worldwide research internship positions:
+If this list helped you, consider contributing back. 🌱
 
 ## North America
 

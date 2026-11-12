@@ -195,3 +195,4 @@ If this list helped you, consider contributing back. 🌱
 * [IIIT HYDERABAD](https://ihub-data.iiit.ac.in/programs/events/shristi-23/)
 * [Summer Program, CeNSE IISc Bangalore](http://www.cense.iisc.ac.in/content/summer-program)
 * [Prof. G.S. Ramaswamy Summer Internship, CSIR-SERC Chennai](https://serc.res.in/professor-gs-ramaswamy-internship-undergraduate-dual-degree-students), for civil/mechanical engineering students
+* [ProfScout](https://profscout.com), find professors abroad to email for research internships.
